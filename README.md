@@ -10,7 +10,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
+* 💻 I'm a Software Engineer Intern at QuintoAndar
 * 🎓 I'm a Computer Science student (graduating in 2021)
 
 ## 📈 Github Stats
