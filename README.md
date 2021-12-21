@@ -8,5 +8,4 @@
 
 <p align="start">
   <a> 💻 I'm a Software Engineer at QuintoAndar </a><br>
-  <a> 🎓 I'm a Computer Science Student (graduating 2021)</a>
 </p>
